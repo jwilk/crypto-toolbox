@@ -6,7 +6,7 @@
 # http://csrc.nist.gov/groups/STM/cmvp/documents/fips140-2/FIPS1402IG.pdf
 # § 7.5 Strength of Key Establishment Methods
 
-use v5.10;
+use v5.14;
 
 no lib '.';  # CVE-2016-1238
 
